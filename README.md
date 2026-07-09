@@ -1,0 +1,2 @@
+# StyxTERMS
+Styx Bot Terms
